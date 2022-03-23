@@ -9,4 +9,6 @@ Curso: Modelación Ambiental-Biología EAFIT
 
 1. [Ejemplos de modelado para una especie](https://alexacl95.github.io/ModelacionAmbiental/html/PopulationGrowth.html)
 2. [Ejemplos de sistemas dinámicos para multiples especies](https://alexacl95.github.io/ModelacionAmbiental/html/PopulationSystems.html)
-3. [Ejemplos de estimación de parámetros para un sistema SIR](https://alexacl95.github.io/ModelacionAmbiental/html/SAUAPA.html)
+3. Ejemplos de estimación de parámetros para un sistema SIR:
+    -[Clásico](https://alexacl95.github.io/ModelacionAmbiental/html/SAUAPA.html)
+    -[Complejo](https://alexacl95.github.io/ChimeraModelForCovid19/HTML/ChinaValidation.html)
